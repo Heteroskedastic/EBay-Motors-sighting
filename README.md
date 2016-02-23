@@ -12,7 +12,8 @@ The goal is to make this flexable for any other such search.
 4. Will be able to add results "sightings" to https://github.com/Heteroskedastic/Classic-Motorcycles
 
 Uses:
-https://github.com/timotheus/ebaysdk-python
+* flask
+* https://github.com/timotheus/ebaysdk-python
 
 A couple related projects
 
