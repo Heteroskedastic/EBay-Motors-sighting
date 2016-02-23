@@ -8,6 +8,8 @@ The goal is to make this flexable for any other such search.
 #### How it works.
 1. Enter a search, for example "BSA" 1960-1970
 2. Parses each result and saves to a db
+3. Can export from DB to CSV
+4. Will be able to add results "sightings" to https://github.com/Heteroskedastic/Classic-Motorcycles
 
 Uses:
 https://github.com/timotheus/ebaysdk-python
